@@ -1,5 +1,4 @@
 # HeartDisease_DiagnosticAnalysis
-# Analysis_On_HeartDisease
 # Tools
 Jupyter-Notebook, Power-BI,MS-Excel
 # Objective
